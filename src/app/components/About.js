@@ -23,7 +23,7 @@ export default function About() {
               At <span className="font-bold text-white">ValorX</span>, we are passionate about transforming ideas into captivating digital art. With a team of experienced designers and artists, we specialize in creating unique avatars, stunning illustrations, and customized artwork tailored to your needs.
             </p>
             <p className="text-lg text-gray-300">
-              Our mission is to empower businesses and individuals through creative visual solutions. Whether you’re looking for a personal touch in your branding, or bespoke art for a project, we strive to deliver high-quality, original pieces that make a lasting impression.
+              Our mission is to empower businesses and individuals through creative visual solutions. Whether you are looking for a personal touch in your branding or bespoke art for a project, we strive to deliver high-quality, original pieces that make a lasting impression.
             </p>
 
             {/* Additional Details */}
